@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ayush2008op
 - 👀 I’m interested in Tech
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ML
+- 💞️ I’m currently researching about ML
 - 📫 Reach me by my mail ID - ayushdinda7@gmail.com
 
 <!---
